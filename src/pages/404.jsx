@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/css/404.css';
+import '~/assets/css/404.css';
 import { Link } from 'react-router-dom';
 
 const Page404 = () => {

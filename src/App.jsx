@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react';
 
-import SiteLayout from './layout';
-import Home from './pages/home';
-import About from './pages/about';
-import Projects from './pages/projects';
-import Page404 from './pages/404';
+import SiteLayout from '~/layout';
+import Home from '~/pages/home';
+import About from '~/pages/about';
+import Projects from '~/pages/projects';
+import Page404 from '~/pages/404';
 
 import { Route, Routes } from 'react-router-dom';
 import { PacmanLoader } from 'react-spinners';
