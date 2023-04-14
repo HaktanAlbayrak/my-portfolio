@@ -14,9 +14,9 @@ const Page404 = () => {
         <p className='p-a'>
           . The page you were looking for could not be found
         </p>
-        <p className='p-b'>... Back to previous page</p>
+        <p className='p-b'>... Back to home page</p>
         <Link to='/' className='back'>
-          ... Back to previous page
+          ... Back to home page
         </Link>
       </div>
     </div>
